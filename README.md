@@ -1,4 +1,5 @@
-# Django Restful CRUD API with PostgreSQL example
+# Angular 8 CRUD application example with Web API
+
 ## Kudos
 <https://bezkoder.com/> for a great tutorial.
 I clonned the original repo and made some small adaptions to get myself started quicker.
@@ -11,6 +12,7 @@ For more detail, please visit:
 ## Code Source
 https://github.com/bezkoder/angular-8-crud-app
 
+---
 
 ## Angular 8 CRUD application example with Web API
 
