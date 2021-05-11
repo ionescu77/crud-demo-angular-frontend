@@ -1,5 +1,9 @@
 # Angular 8 CRUD application example with Web API
 
+## Fullstack
+- front: https://github.com/ionescu77/crud-demo-angular-frontend
+- back: https://github.com/ionescu77/crud-demo-django-backend
+
 ## Kudos
 <https://bezkoder.com/> for a great tutorial.
 I clonned the original repo and made some small adaptions to get myself started quicker.
